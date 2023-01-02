@@ -1,5 +1,5 @@
 # Ryzen 5 5600, B450 PRIME, RX 6800 and Kingston M.2
-Ventura EFI for Ryzen 5 5600 &amp; RX 6800
+Ventura EFI for any 6 core Ryzen CPU & Navi series GPU.
 You can change SMBIOS to iMacPro1,1 if you want for better CPU performance. Make sure you fellas has renew SMBIOS before/after install. Enjoy.
 
 I kept SMCRadeonGPU disabled because it causes early boot issues. You can see your GPU stats just with RadeonSensor too.
