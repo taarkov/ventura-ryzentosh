@@ -10,3 +10,4 @@ I kept SMCRadeonGPU disabled because it causes early boot issues. You can see yo
 ![](https://www.technopat.net/sosyal/eklenti/ekran-resmi-2022-12-03-14-39-30-png.1591782/)
 ![](https://www.technopat.net/sosyal/eklenti/ekran-resmi-2022-12-03-14-39-36-png.1591783/)
 ![](https://www.technopat.net/sosyal/eklenti/ekran-resmi-2022-12-03-14-41-24-png.1591786/)
+![](https://www.technopat.net/sosyal/eklenti/ekran-resmi-2022-12-05-23-39-02-png.1594678/)
